@@ -3,7 +3,10 @@
 syntax enable
 syntax on
 
-colorscheme desert
+" colorscheme desert
+colorscheme darcula
+
+set guifont=Menlo:h13
 
 set nu
 
