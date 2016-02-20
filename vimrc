@@ -36,6 +36,7 @@ Plugin 'gmarik/Vundle.vim'
 " My plugins
 Plugin 'taglist.vim'
 Plugin 'winmanager'
+Plugin 'little2s/vim-swift'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
