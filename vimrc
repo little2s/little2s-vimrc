@@ -6,7 +6,7 @@ syntax on
 " colorscheme desert
 colorscheme darcula
 
-set guifont=Menlo:h13
+set guifont=Menlo:h14
 
 set nu
 
