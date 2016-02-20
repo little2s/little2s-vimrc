@@ -3,7 +3,6 @@
 syntax enable
 syntax on
 
-" colorscheme desert
 colorscheme darcula
 
 set guifont=Menlo:h14
@@ -36,7 +35,6 @@ Plugin 'gmarik/Vundle.vim'
 " My plugins
 Plugin 'taglist.vim'
 Plugin 'winmanager'
-Plugin 'blueshirts/darcula'
 Plugin 'little2s/vim-swift'
 
 " All of your Plugins must be added before the following line
