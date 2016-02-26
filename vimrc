@@ -3,9 +3,10 @@
 syntax enable
 syntax on
 
-colorscheme darcula
+colorscheme peaksea 
+set background=dark
 
-set guifont=Menlo:h14
+set guifont=Menlo:h15
 
 set nu
 
