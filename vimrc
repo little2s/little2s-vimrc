@@ -3,7 +3,8 @@
 syntax enable
 syntax on
 
-colorscheme peaksea 
+colorscheme desert 
+"colorscheme peaksea 
 set background=dark
 
 set guifont=Menlo:h15
